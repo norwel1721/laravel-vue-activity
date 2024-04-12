@@ -11,7 +11,6 @@
    copy .env.example .env
    php artisan key:generate
    php artisan migrate
-   php artisan migrate
 
 - npm run dev use different console
 - ![alt text](image-6.png)
